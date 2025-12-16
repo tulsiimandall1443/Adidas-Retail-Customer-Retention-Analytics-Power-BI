@@ -7,8 +7,7 @@ This project focuses on customer churn, retention, repeat purchases, and custome
 - Power BI (data modeling, DAX, interactive dashboards)
 - Power Query (ETL and data transformation)
 - Excel (data exploration and validation)
-- SQL (data extraction and aggregation)
-- Python (optional advanced analysis and preprocessing)
+
 
 ## Dataset Overview
 
